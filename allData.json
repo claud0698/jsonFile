@@ -1,3 +1,51 @@
-{
-  "Claudio"
-}
+[
+  {
+    "Brand": "DEV001",
+    "Cam1": "0",
+    "Line": "0",
+    "Location": "DEV-OFFICE 01",
+    "Status": "0"
+  },
+  {
+    "Brand": "DEV017",
+    "Cam1": "1",
+    "Line": "0",
+    "Location": "DEV-OFFICE 17",
+    "Status": "2"
+  },
+  {
+    "Brand": "DEV018",
+    "Cam1": "0",
+    "Line": "0",
+    "Location": "DEV-OFFICE 18",
+    "Status": "0"
+  },
+  {
+    "Brand": "DEV055",
+    "Cam1": "0",
+    "Line": "0",
+    "Location": "DEV-OFFICE 55",
+    "Status": "2"
+  },
+  {
+    "Brand": "DEV061",
+    "Cam1": "0",
+    "Line": "0",
+    "Location": "DEV-OFFICE 61",
+    "Status": "2"
+  },
+  {
+    "Brand": "DEV071",
+    "Cam1": "0",
+    "Line": "0",
+    "Location": "DEV-OFFICE 71",
+    "Status": "2"
+  },
+  {
+    "Brand": "DEV081",
+    "Cam1": "0",
+    "Line": "1",
+    "Location": "DEV-LJ 81",
+    "Status": "2"
+  }
+]
